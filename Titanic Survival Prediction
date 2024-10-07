@@ -1,0 +1,25 @@
+TITANIC SURVIVAL PREDICTION 
+
+Project Steps with Insights:
+Step 1: Importing Libraries
+Step 2: Data Collection & Processing
+Step 4: Initial Data Exploration
+Step 5: Data Structure Examination
+Step 6: Missing Value Analysis
+Step 7: Handling Missing Values (Dropping the 'Cabin' Column)
+Step 8: Imputing Missing Values in 'Age'
+Step 9-11: Handling Missing Values in 'Embarked'
+Step 12: Verifying Data Cleanliness
+Step 13: Statistical Summary
+Step 14: Survival Distribution
+Step 15-16: Visualizing Survival Distribution
+Step 17-18: Gender Distribution and Visualization
+Step 19: Gender vs. Survival
+Step 20: Passenger Class Distribution
+Step 21-23: Encoding Categorical Variables
+Step 24: Final Data Preview
+Step 25-27: Feature Selection and Target Variable
+Step 28-29: Data Splitting
+Step 30-31: Model Training
+Step 32-34: Training Accuracy Evaluation
+Step 35-37: Test Accuracy Evaluation
