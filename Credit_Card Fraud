@@ -1,0 +1,20 @@
+Project Title: Credit Card Fraud Prediction
+Objective: Detect fraudulent credit card transactions using machine learning techniques.
+Dataset:
+
+Accessed from Kaggle.
+Consists of transaction data with features indicating potential fraud behavior.
+Technologies Used:
+
+Libraries:
+Nunmpy: For numerical computation.
+Pandas: To handle and manipulate datasets.
+Matplotlib and Seaborn: For data visualization and insights.
+Scikit-Learn:
+train_test_split: To split the data into training and testing sets.
+LogisticRegression: Used for Model training.
+accuracy_score: To evaluate the model's performance.
+Model Performance:
+
+Training Accuracy: 0.9992
+Testing Accuracy: 0.9991
