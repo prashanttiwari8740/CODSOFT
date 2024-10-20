@@ -1,1 +1,21 @@
+Project Title: Movie Rating Prediction
+Objective: Movie Rating Prediction project is to develop a model that accurately predicts user ratings for movies based on features like user behavior, movie attributes, 
+           and historical ratings, to improve personalized recommendations.
+Dataset:
+
+Accessed from Kaggle.
+Technologies Used:
+
+Libraries:
+Nunmpy: For numerical computation.
+Pandas: To handle and manipulate datasets.
+Matplotlib and Seaborn: For data visualization and insights.
+Scikit-Learn:
+train_test_split: To split the data into training and testing sets.
+LinearRegression and DecisionTreeRegression: Used for Model training.
+mean_squared_score and r2_score: Evaluate the model performance.
+
+Model Performance:
+Mean Squared Error: 0.40
+R-squared Score: 0.79
 
